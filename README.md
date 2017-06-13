@@ -1,0 +1,2 @@
+# wp-theme
+wordpress theme
